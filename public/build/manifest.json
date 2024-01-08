@@ -1,0 +1,109 @@
+{
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400.c61287c2.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400.5da313b0.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility.f46715c9.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900.8f06540f.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400.b1d1c1b0.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400.d7b19fe2.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility.2ddb3b41.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900.e4f6a7e9.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.bb12105d.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/bootstrap/dist/js/bootstrap.esm.js",
+      "_select2.fe9e5e68.js",
+      "node_modules/datatables.net/js/jquery.dataTables.mjs",
+      "node_modules/datatables.net-bs5/js/dataTables.bootstrap5.mjs",
+      "resources/js/pages/room-status.js",
+      "resources/js/pages/type.js",
+      "resources/js/pages/room.js",
+      "resources/js/pages/dashboard.js",
+      "resources/js/pages/global.js"
+    ]
+  },
+  "node_modules/bootstrap/dist/js/bootstrap.esm.js": {
+    "file": "assets/bootstrap.esm.eaa7f760.js",
+    "src": "node_modules/bootstrap/dist/js/bootstrap.esm.js",
+    "isDynamicEntry": true
+  },
+  "_select2.fe9e5e68.js": {
+    "file": "assets/select2.fe9e5e68.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "node_modules/datatables.net/js/jquery.dataTables.mjs": {
+    "file": "assets/jquery.dataTables.3ffc338e.js",
+    "src": "node_modules/datatables.net/js/jquery.dataTables.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "node_modules/datatables.net-bs5/js/dataTables.bootstrap5.mjs": {
+    "file": "assets/dataTables.bootstrap5.dd6c9cd8.js",
+    "src": "node_modules/datatables.net-bs5/js/dataTables.bootstrap5.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "node_modules/datatables.net/js/jquery.dataTables.mjs"
+    ]
+  },
+  "resources/js/pages/room-status.js": {
+    "file": "assets/room-status.154d1181.js",
+    "src": "resources/js/pages/room-status.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/type.js": {
+    "file": "assets/type.3817079f.js",
+    "src": "resources/js/pages/type.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/room.js": {
+    "file": "assets/room.d772f772.js",
+    "src": "resources/js/pages/room.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/dashboard.js": {
+    "file": "assets/dashboard.004332ce.js",
+    "src": "resources/js/pages/dashboard.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/global.js": {
+    "file": "assets/global.508c6262.js",
+    "src": "resources/js/pages/global.js",
+    "isDynamicEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app.b2c35e3e.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
